@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/gitbiruk2010/gitbiruk2010/raw/main/images/personal-logo.png" alt="Personal Banner" width="100%" />
+  <img src="https://github.com/gitbiruk2010/gitbiruk2010/raw/main/images/banner.png" alt="Personal Banner" width="100%" />
 </p>
 
 <h1 align="center">Hi there 👋, I'm Biruk!</h1>
