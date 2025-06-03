@@ -58,5 +58,4 @@
 
 <p align="center">
   <em>Thanks for visiting! Have a great day!</em><br>
-  ![Visitor Count](https://visitcount.itsvg.in/api?id=gitbiruk2010&icon=10&color=0)
 </p>
