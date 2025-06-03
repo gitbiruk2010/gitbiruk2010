@@ -56,6 +56,12 @@
 
 ---
 
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=gitbiruk2010&limit=5&theme=default&combine_all_yearly_contributions=true)
+
+---
+[![](https://visitcount.itsvg.in/api?id=gitbiruk2010&icon=10&color=0)](https://visitcount.itsvg.in)
+
 <p align="center">
   <em>Thanks for visiting! Have a great day!</em><br>
 </p>
