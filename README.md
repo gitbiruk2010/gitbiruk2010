@@ -7,7 +7,7 @@
 <p align="center">
   <b>Senior Application Developer</b><br>
   Passionate about building efficient, user-focused applications.<br>
-  Excited to transition into the professional world of software development!
+ 
 </p>
 
 <p align="center">
