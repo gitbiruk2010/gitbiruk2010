@@ -22,7 +22,7 @@
 
 ---
 
-### 💻 Tech Stack
+### Tech Stack
 
 <p align="center">
   <!-- Frontend -->
@@ -76,7 +76,7 @@
 
 ---
 
-### 🔝 Top Contributed Repo
+### Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=gitbiruk2010&limit=5&theme=default&combine_all_yearly_contributions=true)
 
 ---
