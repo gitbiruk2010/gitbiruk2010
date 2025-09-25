@@ -5,13 +5,13 @@
 <h1 align="center">Hello, I'm Biruk!</h1>
 
 <p align="center">
-  <b>Senior Application Development Student</b><br>
+  <b>Senior Application Developer</b><br>
   Passionate about building efficient, user-focused applications.<br>
   Excited to transition into the professional world of software development!
 </p>
 
 <p align="center">
-  <a href="mailto:solbiruk2021@gmail.com">
+  <a href="mailto:birukgzb@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
