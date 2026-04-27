@@ -2,8 +2,6 @@
   <img src="https://github.com/gitbiruk2010/gitbiruk2010/raw/main/images/banner.png" alt="Personal Banner" width="100%" />
 </p>
 
-<h1 align="center">Hello, I'm Biruk!</h1>
-
 <p align="center">
   <b>Senior Application Developer</b><br>
   Passionate about building efficient, user-focused applications.<br>
